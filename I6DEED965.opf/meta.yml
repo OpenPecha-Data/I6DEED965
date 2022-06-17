@@ -1,0 +1,60 @@
+id: I6DEED965
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T13:59:07.216908'
+last_modified: '2022-06-17T13:59:07.216917'
+parser: null
+source_metadata:
+  title: Samaya Series
+  language: bo
+  description: 'Texts related to the samaya (dam tshig) commitments of Vajrayāna:'
+  volume:
+    f28C0:
+      title: On the Importance of Avoiding Criticism of the Guru
+      base_file: f28C0.txt
+      order: 1
+      parent: Advice
+    f17C3:
+      title: 'The Lion''s Roar of Definitive Meaning: A Difficult Point Concerning
+        Samaya'
+      base_file: f17C3.txt
+      order: 2
+      parent: Advice
+    f5F98:
+      title: The Twenty-Eight Commitments
+      base_file: f5F98.txt
+      order: 3
+      parent: Commitment
+    f1C4A:
+      title: Dispeller of All Samaya Corruptions and Pollutions
+      base_file: f1C4A.txt
+      order: 4
+      parent: Damdrip Nyepa Kunsel
+    f8BC2:
+      title: Root Downfalls of the Vajra Vehicle
+      base_file: f8BC2.txt
+      order: 5
+      parent: Explanation
+    fA7A1:
+      title: Summary of the Root Downfalls of the Vajra Vehicle
+      base_file: fA7A1.txt
+      order: 6
+      parent: Explanation
+    fCD89:
+      title: A Brief Guide to Samaya Commitment
+      base_file: fCD89.txt
+      order: 7
+      parent: Explanation
+    f0644:
+      title: The Four Uncommon Samayas of the Great Perfection
+      base_file: f0644.txt
+      order: 8
+      parent: Explanation
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
